@@ -1,0 +1,9 @@
+{
+  userId: ObjectId,
+  subject: String,
+  totalClasses: Number,
+  attendedClasses: Number,
+  date: Date,
+  createdAt: Date,
+  updatedAt: Date
+} 

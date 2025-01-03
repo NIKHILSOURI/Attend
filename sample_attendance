@@ -1,0 +1,7 @@
+{
+    "userId": "user_id_from_users_collection",
+    "subject": "ML",
+    "totalClasses": 10,
+    "attendedClasses": 8,
+    "date": ISODate("2024-03-20")
+} 
